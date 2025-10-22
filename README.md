@@ -1,2 +1,2 @@
 # Gesture-controlled-game
-will be completed by december 2025
+in progress..will be completed by december 2025
